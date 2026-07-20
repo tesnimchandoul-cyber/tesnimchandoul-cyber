@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Tesnim 👋
 
-<!--
-**tesnimchandoul-cyber/tesnimchandoul-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a tech enthusiast focusing on Computer Science, software logic, and digital design. I love building clean web layouts, managing databases, and breaking down how software works under the hood.
 
-Here are some ideas to get you started:
+### 🚀 What I'm Up To
+* 💻 Currently learning the fundamentals of systems programming with **C**
+* 📊 Building on my foundations in Python and relational databases (SQL)
+* 🎨 Moving into **UX/UI Design** to create modern mobile and web interfaces
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Ecosystem
+* **Languages:** Python, SQL, HTML5 / CSS3
+* **Learning:** C, Git
+* **Tools:** VS Code, GitHub
+
+---
+"Step by step. One line of code at a time."
