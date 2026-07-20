@@ -8,7 +8,7 @@ I am a tech enthusiast focusing on Computer Science, software logic, and digital
 * 🎨 Moving into **UX/UI Design** to create modern mobile and web interfaces
 
 ### 🛠️ Tech Stack & Ecosystem
-* **Languages:** Python, SQL, HTML5 / CSS3
+* **Languages:** Python, SQL, HTML5 / CSS3 /JS /PHP
 * **Learning:** C, Git
 * **Tools:** VS Code, GitHub
 
